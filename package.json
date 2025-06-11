@@ -2,7 +2,7 @@
   "name": "marvelapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sdiahid.github.io/marvel-app",
+  "homepage": "https://sdiahid.github.io/marvel-explorer",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
